@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ET_4_FileParser", "ET_4_FileParser.csproj", "{699517AF-ED49-43AC-A875-6F6EE3E39C6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{2CAD371F-BEEE-4D9B-883E-4CEAC5949AA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{699517AF-ED49-43AC-A875-6F6EE3E39C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{699517AF-ED49-43AC-A875-6F6EE3E39C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{699517AF-ED49-43AC-A875-6F6EE3E39C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAD371F-BEEE-4D9B-883E-4CEAC5949AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAD371F-BEEE-4D9B-883E-4CEAC5949AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAD371F-BEEE-4D9B-883E-4CEAC5949AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAD371F-BEEE-4D9B-883E-4CEAC5949AA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

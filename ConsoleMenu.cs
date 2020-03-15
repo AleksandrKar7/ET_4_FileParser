@@ -17,7 +17,7 @@ namespace ET_4_FileParser
             {
                 if (isNewTry)
                 {
-                    result = AskMenuItem("Choose board type",
+                    result = AskMenuItem("Choose mode",
                         new string[] { "Search string in file",
                             "replacing a line in a file" });
 
